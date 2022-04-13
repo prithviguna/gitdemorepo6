@@ -1,2 +1,6 @@
 creating a new file1
+<<<<<<< HEAD
 creating a new file1 in linux
+=======
+creating secong line in file1
+>>>>>>> 364de9da067dcb79c2ae42bba82d3d3338e53cf9
